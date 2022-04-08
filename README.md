@@ -1,4 +1,4 @@
-<img alt="img" src="https://twitter.com/JohanTovar/header_photo" width="100%" height="auto" />
+<img alt="img" src="https://github.com/jtovarto/jtovarto/blob/main/banner.jpeg" width="100%" height="auto" />
 
 
 <h1 align="center">Hi 👋, I'm Johan Tovar</h1>
