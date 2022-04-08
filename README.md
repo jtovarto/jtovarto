@@ -1,10 +1,6 @@
 <img alt="img" src="https://github.com/jtovarto/jtovarto/blob/main/banner.jpeg" width="100%" height="auto" />
 
 <br>
-<h1 align="center">Hi 👋, I'm Johan Tovar</h1>
-<h3 align="center">Lover of learning. Passion for programming. Web developer.</h3>
-
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
