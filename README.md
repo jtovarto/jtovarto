@@ -48,7 +48,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jtovarto&" alt="jtovarto" /></p>
 
----
+<br>
 ### You can checkout my blogs :loudspeaker: 
 
-[![Johan Tovar's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getDEVBlogs?username=johantovar&limit=4&type=vertical)](https://dev.to/johantovar)
+[![Johan Tovar's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getDEVBlogs?username=johantovar&limit=4&type=horizontal)](https://dev.to/johantovar)
