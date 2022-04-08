@@ -1,4 +1,4 @@
-<img alt="img" src="https://github.com/jtovarto/jtovarto/blob/main/banner.jpeg" width="100%" height="auto" />
+<img alt="img" src="https://github.com/jtovarto/jtovarto/blob/main/new-banner.jpeg" width="100%" height="auto" />
 
 <br>
 
