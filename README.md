@@ -2,14 +2,14 @@
 ╭── jtovarto ── CLI v3.0.0 ──────────────────────────────────────────────╮
 │                                                                        │
 │   welcome back, guest!             Tips for getting started            │
-│                                    Type /about to see my background    │
-│            _                       Type /stack to list my skills       │
-│          _[_]_                     Type /ping  to get contact info     │
-│           o_o                                                          │
-│          / | \                     Current Status                      │
-│           / \                      Co-Head of Software @ Unit1 Gear    │
-│                                                                        │
-│                                    Recent activity                     │
+│       ___   ___                    Type /about to see my background    │
+│      / @ \ / @ \                   Type /stack to list my skills       │
+│      \___/_\___/                   Type /ping  to get contact info     │
+│         |_|_|                                                          │
+│       /|_____|\                    Current Status                      │
+│      |  |[_]|  |                   Co-Head of Software @ Unit1 Gear    │
+│      \_________/                                                       │
+│                                    Recent activity.                    │
 │   SYSTEM: ONLINE                   Deployed Unit1 App V3       -> [OK] │
 │   MOBILE: REACT NATIVE             Hardware limits pushed      -> [OK] │
 │   AGENTS: ACTIVE                   AI integrations running     -> [OK] │
