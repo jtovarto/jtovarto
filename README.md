@@ -1,4 +1,4 @@
-```text
+```js
 ╭── jtovarto ── CLI v3.0.0 ──────────────────────────────────────────────╮
 │                                                                        │
 │   welcome back, guest!             Tips for getting started            │
@@ -19,7 +19,7 @@
 
 ### `> /about`
 
-```text
+```js
 [INFO] Loading protocol: Profile Overview...
 [INFO] Role: Technical Leader bridging Mobile, IoT, and AI.
 [INFO] Mission: Leading the digital ecosystem for smart safety gear at Unit1.
@@ -32,7 +32,7 @@
 
 ### `> /stack`
 
-```text
+```js
 [====== INSTALLED PACKAGES ======]
 
 dependencies:
@@ -48,22 +48,22 @@ dependencies:
 ### `> /stats`
 
 <!-- DYNAMIC_STATS_START -->
-```text
+```js
 [====== SYSTEM PROFILER ======]
 
-OS        macOS / iOS / Android Run-loops
-Kernel    Mobile Core + AI Agents Ext.
-Uptime    ~2180 days (GitHub Account Lifetime)
-Packages  13 (public repos), others private
-Followers 10 developers connected
-Memory    Fully allocated to Unit1 App V3
-Disk      Brain SSD heavily fragmented by HW Prototypes
+[OS]        macOS / iOS / Android Run-loops
+[Kernel]    Mobile Core + AI Agents Ext.
+[Uptime]    ~2180 days (GitHub Account Lifetime)
+[Packages]  13 (public repos), others private
+[Followers] 10 developers connected
+[Memory]    Fully allocated to Unit1 App V3
+[Disk]      Brain SSD heavily fragmented by HW Prototypes
 ```
 <!-- DYNAMIC_STATS_END -->
 
 ### `> /ping`
 
-```text
+```js
 [====== ESTABLISHING SECURE CONNECTION ======]
 
   ■ NETWORK LINKS

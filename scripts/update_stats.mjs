@@ -26,16 +26,16 @@ async function updateReadme() {
     // We maintain the hardcoded aesthetic entries where it makes sense,
     // but update dynamic numbers based on real API data.
     const newStatsText = `
-\`\`\`text
+\`\`\`js
 [====== SYSTEM PROFILER ======]
 
-OS        macOS / iOS / Android Run-loops
-Kernel    Mobile Core + AI Agents Ext.
-Uptime    ~${uptimeDays} days (GitHub Account Lifetime)
-Packages  ${data.public_repos} (public repos), others private
-Followers ${data.followers} developers connected
-Memory    Fully allocated to Unit1 App V3
-Disk      Brain SSD heavily fragmented by HW Prototypes
+[OS]        macOS / iOS / Android Run-loops
+[Kernel]    Mobile Core + AI Agents Ext.
+[Uptime]    ~${uptimeDays} days (GitHub Account Lifetime)
+[Packages]  ${data.public_repos} (public repos), others private
+[Followers] ${data.followers} developers connected
+[Memory]    Fully allocated to Unit1 App V3
+[Disk]      Brain SSD heavily fragmented by HW Prototypes
 \`\`\`
 `;
 
