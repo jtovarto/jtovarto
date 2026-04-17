@@ -1,0 +1,38 @@
+name: Update Dynamic Profile Stats
+
+on:
+  push:
+    branches:
+      - main # Disparador para push directos y merges a main
+  pull_request:
+    branches:
+      - main # Disparador adicional para validar cambios antes del merge
+  schedule:
+    - cron: '0 0 * * *' # Dispador diario (Cron)
+  workflow_dispatch: # Disparador manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Need write access to push commits
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # Use a modern Node to ensure fetch API is available
+
+      - name: Update README Stats
+        run: node scripts/update_stats.mjs
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: dynamically update terminal stats" && git push)

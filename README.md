@@ -47,10 +47,19 @@ dependencies:
 
 ### `> /stats`
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jtovarto&show_icons=true&theme=tokyonight&hide_border=false&title_color=7aa2f7&icon_color=7aa2f7&bg_color=1a1b26&border_color=272a3b&style=flat-square" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jtovarto&show_icons=true&theme=tokyonight&hide_border=false&layout=compact&title_color=7aa2f7&bg_color=1a1b26&border_color=272a3b&style=flat-square" alt="Top Langs" />
-</p>
+```text
+[====== SYSTEM PROFILER ======]
+
+<!-- DYNAMIC_STATS_START -->
+OS        macOS / iOS / Android Run-loops
+Kernel    Mobile Core + AI Agents Ext.
+Uptime    ~0 days (3+ Years Active in React Native)
+Packages  0 (npm), 0 (composer), 0 (pip)
+Shell     0
+Memory    Fully allocated to Unit1 App V3
+Disk      Brain SSD heavily fragmented by HW Prototypes
+<!-- DYNAMIC_STATS_END -->
+```
 
 ### `> /ping`
 
